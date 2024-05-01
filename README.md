@@ -1,6 +1,4 @@
-# React + TypeScript + Vite + SCSS + ESLint + Pretter + Axios
-
-Этот шаблон представляет собой простой стартовый набор для разработки на React с использованием TypeScript и Vite. В нем уже настроены инструменты и библиотеки для удобной разработки веб-приложений.
+# React + TypeScript + Vite + SCSS + ESLint + Prettier + Axios + Bootstrap
 
 ## Стек технологий
 
@@ -10,6 +8,7 @@
 - [Vite](https://vitejs.dev/) - Быстрый инструмент сборки для разработки веб-приложений.
 - [React Router](https://reactrouter.com/) - Навигация в приложении React
 - [Axios](https://axios-http.com/) - Библиотека для выполнения HTTP-запросов из браузера или Node.js.
+- [Bootstrap](https://getbootstrap.com/) - это открытый и бесплатный HTML-, CSS- и JS-фреймворк.
 
 ### Инструменты
 
