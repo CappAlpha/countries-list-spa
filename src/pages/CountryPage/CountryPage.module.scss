@@ -1,0 +1,11 @@
+.root {
+  @include wrap;
+}
+
+.link {
+  margin-bottom: 20px;
+}
+
+.title {
+  @include title;
+}

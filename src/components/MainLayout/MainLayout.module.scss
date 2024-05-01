@@ -1,0 +1,10 @@
+.root {
+  min-height: 100vh;
+  min-height: 100svh;
+  padding-top: 80px;
+  box-sizing: border-box;
+
+  @include breakpoint(mobile-m) {
+    padding-top: 60px;
+  }
+}

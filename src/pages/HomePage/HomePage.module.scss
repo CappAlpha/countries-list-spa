@@ -1,0 +1,20 @@
+.root {
+  @include wrap;
+}
+
+.wrap {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 40px;
+  margin-bottom: 20px;
+
+  @include breakpoint(desktop-s) {
+    gap: 20px;
+  }
+}
+
+.title {
+  @include title;
+  width: 100%;
+  margin-bottom: 20px;
+}
