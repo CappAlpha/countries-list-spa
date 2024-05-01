@@ -22,7 +22,7 @@
 - [@vitejs/plugin-react](https://github.com/vitejs/vite/tree/main/packages/plugin-react) - плагин для работы с React в Vite
 - [vite-plugin-svgr](https://www.npmjs.com/package/vite-plugin-svgr) - плагин для работы с SVG в Vite
 
-Этот стек технологий позволяет создавать современные веб-приложения на базе React с использованием TypeScript, быстрой сборки через Vite, удобным управлением состоянием через Redux Toolkit, работой с формами и валидацией данных.
+Этот стек технологий позволяет создавать современные веб-приложения на базе React с использованием TypeScript, быстрой сборки через Vite.
 
 ## Разработка
 
